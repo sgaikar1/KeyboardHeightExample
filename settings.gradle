@@ -1,0 +1,2 @@
+rootProject.name='KeyboardHeightExample'
+include ':app'
